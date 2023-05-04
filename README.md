@@ -16,7 +16,7 @@ The dataset used for this project is the Titanic Survival Prediction Dataset ava
 
 ## Usage
 
-To use this model, simply clone this repository and run the `titanic_nb_classifier.ipynb` notebook in Jupyter Notebook. The notebook contains the code for preprocessing the data, training the Naive Bayes classifier, and evaluating the model's performance.
+To use this model, simply clone this repository and run the `Titanic Crash Survival.ipynb` notebook in Jupyter Notebook. The notebook contains the code for preprocessing the data, training the Naive Bayes classifier, and evaluating the model's performance.
 
 ## Results
 

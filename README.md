@@ -13,7 +13,6 @@ The dataset used for this project is the Titanic Survival Prediction Dataset ava
 - Scikit-learn
 - Pandas
 - NumPy
-- Matplotlib
 
 ## Usage
 
